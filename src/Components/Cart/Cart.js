@@ -11,11 +11,11 @@ const Cart = (props) => {
 
     }
     return (
-        <div>
+        <div >
             <h1>Hire summary</h1>
-                <p>Actors Hired: {props.cart.length}</p>
-                <p>Total Cost: ${total} </p>
-                <p> </p>
+                <p className= 'cart-total-count'>Actors Hired: {props.cart.length}</p>
+                <p className= 'cart-total-count'>Total Cost: ${total} </p>
+                
         </div>
     );
 };
