@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with The game changers app
+
+1. live site link: https://the-game-changers.netlify.app/
+2. This is about movie making website .
+3. you can see the updated hire rate of actors in hollywood and bollywood. You can also hire our beloved AJ (Ananto Jalil) from this website.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
